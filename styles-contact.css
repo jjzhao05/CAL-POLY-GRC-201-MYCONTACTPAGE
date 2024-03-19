@@ -74,13 +74,14 @@ html, body {
 	margin-left: auto;
 	margin-right: auto;
 	text-align: center;
-	max-width: 100%;
+	width: 30vw;
+	height: auto;
 	/*border: 4px dashed white;*/
 }
 
 
 .center {
-    width: 50vw;
+    width: 40vw;
 	padding: 2%;
     margin: auto auto;
  	background: #ffc0cb; /*this uses opacity of 75% for the background color*/
@@ -116,7 +117,7 @@ p {
 nav{
 	font-family: "Kode Mono", monospace;
 	font-size: 1.5vw;
-	width: 30vw; /* This is the width of the nav element */
+	width: 35vw; /* This is the width of the nav element */
 	margin: 0 auto; /* This centers the entire nav element inside
 	the center div */
 	border: dashed white;
